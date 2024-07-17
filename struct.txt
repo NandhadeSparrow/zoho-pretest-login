@@ -1,0 +1,33 @@
+'''
+init
+    if login
+        profile page
+    else 
+        login page
+login page
+    if register click
+        register page
+    if login
+        profile page
+    else
+        getinput
+        login function
+        profile
+register page
+    get input
+        check duplicate
+            if true
+                suggest login
+    save in sql
+    login function
+    profile page
+profile page
+    all details
+    if logout click
+        clear sesssion
+        login page
+login  function
+    check
+    save data in sesssion
+
+'''
